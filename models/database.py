@@ -6,7 +6,7 @@ sqllite_file_name = "database.db"
 sqllite_url = f'sqlite:///{sqllite_file_name}'
 
 # Criação da engine
-engine = create_engine(sqllite_url, echo=True)
+engine = create_engine(sqllite_url, echo=False)
 
 if __name__ == "__main__":
     # Criação do banco de dados
