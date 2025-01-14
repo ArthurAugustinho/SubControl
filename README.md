@@ -24,5 +24,4 @@ E por fim execulte este comando para entrar na interface e usar a aplicação:
  
 ## Autor
 
-- [ArthurAugustinho](https://github.com/ArthurAugustinho)
-
+- [ArthurAugustinho] - (https://github.com/ArthurAugustinho)
